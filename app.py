@@ -133,7 +133,7 @@ if page == "Dashboard":
             <div style='border:1px solid {color}40;border-left:6px solid {color};
                         border-radius:8px;padding:14px 18px;background:{color}10'>
                 <div style='font-size:0.85em;color:{color};font-weight:700'>{sev.upper()} RISK</div>
-                <div style='font-size:2em;font-weight:700;color:#111'>{count}</div>
+                <div style='font-size:2em;font-weight:700;color:{color}'>{count}</div>
             </div>
             """,
             unsafe_allow_html=True,
