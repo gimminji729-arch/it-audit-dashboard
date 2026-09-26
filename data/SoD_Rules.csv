@@ -1,0 +1,5 @@
+Role 1,Role 2,Risk Description,System
+Create Vendor,Approve Payment,Fraudulent vendor creation and self-approved payment (bypass of three-way match),SAP
+Create Purchase Order,Approve Purchase Order,Unauthorized or fictitious purchases without independent approval,SAP
+Process Payroll,Approve Payroll Changes,Unauthorized payroll changes or ghost employees,Payroll
+Create Customer,Approve Credit Memo,Revenue manipulation through unauthorized credit memos,Sales Cloud

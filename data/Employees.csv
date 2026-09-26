@@ -1,0 +1,26 @@
+Employee ID,Name,Department,Job Title,Status,Hire Date,Termination Date
+E001,Jane Kim,Finance & Accounting,AP Accountant,Active,2020-03-16,
+E002,John Park,Human Resources,HR Manager,Terminated,2018-06-01,2026-07-15
+E003,Grace Lee,Information Technology,IT Support Specialist,Active,2022-01-10,
+E004,David Cho,Procurement,Procurement Manager,Active,2019-09-01,
+E005,Mike Chen,Sales,Sales Representative,Active,2021-11-15,
+E006,Sarah Han,Finance & Accounting,Senior Accountant,Active,2017-04-03,
+E007,Tom Yoon,Information Technology,Systems Administrator,Active,2020-08-20,
+E008,Amy Song,Finance & Accounting,Financial Analyst,Terminated,2021-02-01,2026-05-29
+E009,Brian Oh,Sales,Sales Manager,Active,2018-12-01,
+E010,Kevin Moon,Information Technology,Software Developer,Active,2023-03-06,
+E011,Nancy Ryu,Procurement,AP Clerk,Active,2022-07-18,
+E012,Chris Baek,Finance & Accounting,Staff Accountant,Active,2023-10-02,
+E013,Julia Shin,Human Resources,HR Generalist,Active,2021-05-11,
+E014,Peter Noh,Information Technology,Software Developer,Active,2022-09-19,
+E015,Diana Ahn,Executive,CFO,Active,2016-01-04,
+E016,Steve Jung,Sales,Sales Representative,Active,2023-02-27,
+E017,Rachel Kwon,Finance & Accounting,Controller,Active,2017-08-14,
+E018,Eric Yang,Information Technology,IT Manager,Active,2015-06-22,
+E019,Monica Bae,Finance & Accounting,AP Accountant,Active,2024-01-08,
+E020,Justin Seo,Procurement,Procurement Specialist,Active,2020-11-30,
+E021,Helen Cha,Sales,Sales Representative,Terminated,2019-04-15,2026-08-01
+E022,Frank Lim,Information Technology,Network Engineer,Active,2018-03-12,
+E023,Grace Moon,Finance & Accounting,AR Accountant,Active,2021-06-07,
+E024,Henry Suh,Executive,CEO,Active,2014-01-02,
+E025,Ian Kwak,Sales,Sales Director,Active,2016-09-09,

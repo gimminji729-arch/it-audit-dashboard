@@ -1,0 +1,11 @@
+Change ID,System,Change Description,Requested By,Developer,Reviewed By,Approved By,Approval Date,Deployment Date,Emergency Change
+CR001,SAP,Update vendor payment terms logic,David Cho,Kevin Moon,Eric Yang,Eric Yang,2026-08-01,2026-08-05,N
+CR002,SAP,Modify AP approval workflow thresholds,Jane Kim,Peter Noh,,Peter Noh,2026-08-10,2026-08-12,N
+CR003,Payroll,Year-end tax table update,Julia Shin,ADP (external vendor),Julia Shin,Diana Ahn,2026-01-15,2026-01-20,N
+CR004,AWS IAM Console,Add new IAM role for reporting service,Frank Lim,Frank Lim,,,,2026-07-22,N
+CR005,Sales Cloud,Add new discount approval field,Brian Oh,Kevin Moon,Eric Yang,Eric Yang,2026-06-01,2026-06-03,N
+CR006,SAP,Emergency fix - vendor master duplicate records,David Cho,Peter Noh,,Eric Yang,2026-09-02,2026-09-01,Y
+CR007,Payroll,Update direct deposit routing validation,John Park,Kevin Moon,Eric Yang,Eric Yang,2026-03-01,2026-03-04,N
+CR008,AWS IAM Console,Revoke unused service accounts,Eric Yang,Frank Lim,Tom Yoon,Eric Yang,2026-05-10,2026-05-12,N
+CR009,SAP,Update three-way match tolerance percentage,Rachel Kwon,Kevin Moon,,Kevin Moon,2026-04-18,2026-04-20,N
+CR010,Sales Cloud,Add mandatory approval step for discounts over 20 percent,Ian Kwak,Peter Noh,Eric Yang,Eric Yang,2026-07-01,2026-07-05,N

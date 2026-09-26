@@ -1,0 +1,21 @@
+User ID,Role,System
+U001,Create Vendor,SAP
+U001,Approve Payment,SAP
+U001,SAP System Admin,SAP
+U008,SAP System Admin,SAP
+U021,SAP System Admin,SAP
+U005,Create Purchase Order,SAP
+U005,Approve Purchase Order,SAP
+U014,IAM Admin,AWS IAM Console
+U022,IAM Admin,AWS IAM Console
+U026,IAM Admin,AWS IAM Console
+U003,Payroll Admin,Payroll
+U016,Payroll Clerk,Payroll
+U023,Create Vendor,SAP
+U027,Approve Payment,SAP
+U015,Create Vendor,SAP
+U012,Developer Access,SAP
+U017,Developer Access,SAP
+U030,Create Vendor,SAP
+U030,Approve Payment,SAP
+U031,IAM Admin,AWS IAM Console
